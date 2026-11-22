@@ -1,0 +1,18 @@
+# Visual Studio per-user / per-machine state
+.vs/
+*.user
+*.suo
+
+# Build output (Visual Studio)
+x64/
+x86/
+Win32/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.ipch
+
+# macOS
+.DS_Store
