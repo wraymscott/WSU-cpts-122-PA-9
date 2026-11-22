@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wraym\\OneDrive\\Documents\\coding\\school\\cpts 122\\PA9\\WSU-cpts-122-PA-9\\PA9 VisualStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B190152-4C56-48D4-8D02-221671EEE17D}|PA9 VisualStudio\\PA9 VisualStudio.vcxproj|C:\\Users\\wraym\\OneDrive\\Documents\\coding\\school\\cpts 122\\PA9\\WSU-cpts-122-PA-9\\PA9 VisualStudio\\PA9 VisualStudio\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B190152-4C56-48D4-8D02-221671EEE17D}|PA9 VisualStudio\\PA9 VisualStudio.vcxproj|solutionrelative:PA9 VisualStudio\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\wraym\\OneDrive\\Documents\\coding\\school\\cpts 122\\PA9\\WSU-cpts-122-PA-9\\PA9 VisualStudio\\PA9 VisualStudio\\main.cpp",
+              "RelativeDocumentMoniker": "PA9 VisualStudio\\main.cpp",
+              "ToolTip": "C:\\Users\\wraym\\OneDrive\\Documents\\coding\\school\\cpts 122\\PA9\\WSU-cpts-122-PA-9\\PA9 VisualStudio\\PA9 VisualStudio\\main.cpp",
+              "RelativeToolTip": "PA9 VisualStudio\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-22T19:32:00.89Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
